@@ -7,7 +7,7 @@ Currently, I'm working on a (SaaS) Shop Management System and an Accounting App,
 Feel free to reach out to me at umerkhayyam91@gmail.com
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/abdul-rehman-waseem)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/umerkhayyam91)
 
 ---
 
