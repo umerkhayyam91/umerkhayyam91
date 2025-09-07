@@ -1,4 +1,4 @@
-# Bonjour Fellas👋, I'm Umer Khayyam
+# Hallo, Leute!👋, I'm Umer Khayyam
 
 A enthusiastic Backend Developer with a deep love for coding. I've been programming since 3 years, and my fascination with technology has driven me to constantly learn and grow in this field.
 
